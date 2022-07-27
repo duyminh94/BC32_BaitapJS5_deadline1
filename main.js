@@ -119,8 +119,6 @@ function calcPrice (enekw, fistkw, twokw, threekw, fourkw, fivekw ) {
  * - Tạo biến name1, enekw cho người dùng nhập thông tin vào
  * Xử lý:
  * - DOM giá trị người dùng nhập về và xét điều kiện khách nhập đúng hay sai;
- * - Kiểm tra enekw giá trị rỗng 
- * - Tạo biến price
  * - Tạo biến hàm function calcPrice tính tiền điện 
  * -  Gọi Hàm tính tiền điện 
  * Đầu ra:
